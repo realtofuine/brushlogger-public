@@ -67,7 +67,8 @@ Brush Logger can be downloaded on any Android device from the Google Play Store 
 ### Prerequisites
 
 <b>Manually:</b> Brush Logger can be used manually without any additional requirements.
-<b>Automatically:</b> Automatic recording of brush data requires the use of an <u>Android-based smartwatch</u>. Apple Watches will not work!
+
+<b>Automatically:</b> Automatic recording of brush data requires the use of an <u>Android-based smartwatch</u>. Apple Watches are not currently supported!
 
 ### Installation
 
